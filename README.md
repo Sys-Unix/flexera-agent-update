@@ -69,6 +69,10 @@ Os logs de debug serão armazenados em `/var/tmp/ndtrack_debug.txt`.
 
 Para mais informações ou questões, por favor, contacte a equipa SysUnix.
 
+## Autor
+
+Michael Melo
+
 ## Contribuições
 
 Contribuições são bem-vindas através de Pull Requests. Certifique-se de atualizar o Readme conforme necessário.
